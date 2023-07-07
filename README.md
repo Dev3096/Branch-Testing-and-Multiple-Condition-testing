@@ -37,7 +37,7 @@ int F(int a, int b, int c) {
         i = i + 1;
     }
     return type;
-}
+} ```c
 
 ## Problem Statement: Branch and Multiple-Condition Testing
 The goal of this problem is to derive a set of test cases that provide full branch coverage for function F().
