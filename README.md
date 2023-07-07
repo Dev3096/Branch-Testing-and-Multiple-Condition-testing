@@ -38,13 +38,14 @@ int F(int a, int b, int c) {
     }
     return type;
 }
-Problem Statement: Branch and Multiple-Condition Testing
+
+## Problem Statement: Branch and Multiple-Condition Testing
 The goal of this problem is to derive a set of test cases that provide full branch coverage for function F().
 Additionally, we need to derive additional test cases that cover multiple-condition testing, ensuring that all combinations of simple conditions for the complex predicates are executed.
 
-Branch Testing
+## Branch Testing
 The following test cases cover branch testing, ensuring that all branches in the code are executed:
-
+ 
 Test Case 1:
 
 Input: a = 3, b = 4, c = 5
